@@ -24,9 +24,12 @@ driver.quit()
 
 
 # Xpath   CSS Selector
-# 1.Absolute Xpath --- Static behave  root path
+# 1.Absolute Xpath --- Static behave  root path  //tag_name/tag_name/tag_name
+
 # 2.Relatable Xpath ---- Dynamic Have
 
 # //tagname[@property='value']
 #
 # tagname[property='value']
+
+
