@@ -17,9 +17,9 @@ driver.quit()
 
 #id,name,class_name,tagname,link_text,partial_link_text,css_selecetor,xpath
 
-id,name,class,tagname
-
-libk_text and partial_link_text--
-css_Selector and Xpath  - static and dynamic work locaters
-
-Xpath :- Absolute Xapth(Static), Relatable Xpath (Dynamic)
+# id,name,class,tagname
+#
+# libk_text and partial_link_text--
+# css_Selector and Xpath  - static and dynamic work locaters
+#
+# Xpath :- Absolute Xapth(Static), Relatable Xpath (Dynamic)
