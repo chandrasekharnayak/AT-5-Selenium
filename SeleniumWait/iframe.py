@@ -11,7 +11,7 @@ driver.get('https://rahulshettyacademy.com/AutomationPractice/')
 driver.switch_to.frame('courses-iframe')#frame id or frame name
 driver.find_element(By.LINK_TEXT,'Mentorship').click()
 time.sleep(3)
-driver.get_screenshot_as_file('scrn_mentor1.png')
+driver.get_screenshot_as_file('scrn_mentor3.png')
 
 #first you return to your default frame
 
